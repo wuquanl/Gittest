@@ -9,7 +9,7 @@ int main()
 	{
 		printf("%d\n", i);
 	}
-
+	float aaa = 1.0;
 	system("pause");
 	return 1;
 }
